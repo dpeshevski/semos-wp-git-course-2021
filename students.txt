@@ -5,7 +5,4 @@ Slusateli na Git & GitHub Modulot pri WordPress akademija @ Semos Education
 3. Biljana
 4. David
 5. Viktor
-6. Ljubisha
-
-
-
+6. Ljubisha Cvetkovski
