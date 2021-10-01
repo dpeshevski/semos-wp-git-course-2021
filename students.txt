@@ -1,6 +1,6 @@
 Slusateli na Git & GitHub Modulot pri WordPress akademija @ Semos Education
 
-1. Aleksandar
+1. Aleksandar Bozhinovski
 2. Aleksandra
 3. Biljana
 4. David Nikolovski
